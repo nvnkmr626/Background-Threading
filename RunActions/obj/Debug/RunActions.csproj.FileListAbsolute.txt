@@ -1,0 +1,7 @@
+C:\NVA\RunActions\RunActions\bin\Debug\RunActions.exe.config
+C:\NVA\RunActions\RunActions\bin\Debug\RunActions.exe
+C:\NVA\RunActions\RunActions\bin\Debug\RunActions.pdb
+C:\NVA\RunActions\RunActions\obj\Debug\RunActions.csprojAssemblyReference.cache
+C:\NVA\RunActions\RunActions\obj\Debug\RunActions.csproj.CoreCompileInputs.cache
+C:\NVA\RunActions\RunActions\obj\Debug\RunActions.exe
+C:\NVA\RunActions\RunActions\obj\Debug\RunActions.pdb

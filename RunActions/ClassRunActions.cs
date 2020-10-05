@@ -5,14 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace RunActions
+
+    ///<summary>
+    ///Run actions in Background
+    ///</summary>
 {
-   public class ClassRunActions
+    public class ClassRunActions
     {
 
         public async void Run()
         {
             try
             {
+                //Array of Action Delegates.
                 Action[] actions = new Action[]{new Action(FirstAction),
                                                  new Action(SecondAction),
                                                     new Action(ThirdAction),
